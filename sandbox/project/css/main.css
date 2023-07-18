@@ -1,6 +1,6 @@
 body {
-   background-color: white;
-    color: black
+    background-color: white;
+    color: red;
 }
 
 a:visited {
@@ -8,21 +8,13 @@ a:visited {
 }
 
 
-table {
-    border:solid 2px black;
-}
-th {
-    border:solid 2px black;
-}
-th {
-    border:solid 2px black;
+#info td {
+    border-right: 2px solid black;
 }
 
 td {
     background-color: white
     color: black;
 }
-
- 
 
 
