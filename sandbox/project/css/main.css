@@ -1,6 +1,8 @@
 body {
     background-color: white;
-    color: rgb(0, 0, 0);
+    color: black;
+    display: flex;
+    justify-content:center;
 }
 
 a:visited {
@@ -8,28 +10,10 @@ a:visited {
 }
 
 
-table {
-    border:solid 2px black;
-}
-th {
-    border:solid 2px black;
-}
-th {
-    border:solid 2px black;
+#info td {
+    border-right: 2px solid black;
 }
 
-td {
-    background-color: brown;
-    color: black;
+#info td.last{
+    border-right:none;
 }
-
-img{
-    width: auto;
-    height: 500px;
-    display: block;
-}
-
-.herci{
-    
-}
-
