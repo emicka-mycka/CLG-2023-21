@@ -14,6 +14,17 @@ a:visited {
     border-right: 2px solid black;
 }
 
-#info td.last{
-    border-right:none;
+td {
+    background-color: brown;
+    color: black;
+}
+
+img{
+    width: auto;
+    height: 500px;
+    display: block;
+}
+
+.herci{
+    
 }
