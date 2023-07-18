@@ -23,4 +23,9 @@ td {
     color: black;
 }
 
+img{
+    width: auto;
+    height: 500px;
+    display: block;
+}
 
