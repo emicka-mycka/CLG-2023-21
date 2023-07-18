@@ -1,8 +1,6 @@
 body {
     background-color: white;
-    color: black;
-    display: flex;
-    justify-content:center;
+    color: red;
 }
 
 a:visited {
@@ -15,15 +13,10 @@ a:visited {
 }
 
 td {
-    background-color: brown;
+    background-color: white
     color: black;
 }
 
-img{
-    width: auto;
-    height: 500px;
-    display: block;
-}
 
 .herci td  {
     color: darkblue;
