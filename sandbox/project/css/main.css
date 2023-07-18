@@ -2,17 +2,13 @@ body {
     background-color: white;
     color: black;
     display: flex;
-    justify-content: center;
-    justify-content: space-around;
+    justify-content:center;
 }
 
 a:visited {
-    color: red !important;
+    color:black!important;
 }
 
-#info {
-    border: 2px solid black;
-}
 
 #info td {
     border-right: 2px solid black;
