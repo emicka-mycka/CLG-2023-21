@@ -1,8 +1,24 @@
 body {
     background-color: white;
-    color: red;
+    color:black;
 }
 
 a:visited {
-    color: red !important;
+    color:black!important;
+}
+
+
+table {
+    border:solid 2px black;
+}
+th {
+    border:solid 2px black;
+}
+th {
+    border:solid 2px black;
+}
+
+td {
+    background-color: brown;
+    color: black;
 }
