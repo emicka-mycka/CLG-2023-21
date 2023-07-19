@@ -85,4 +85,6 @@ position: fixed;
 #kontakt {
     flex: 70%;
     padding: 20px;
+    flex-basis: 90%;
+    border: 3px solid rgb(255, 255, 255);
   }
