@@ -6,7 +6,7 @@ body {
 }
 
 a:visited {
-    color: black !important;
+    color: black!important;
 }
 
 
@@ -15,11 +15,14 @@ a:visited {
 }
 
 td {
-    background-color: whitesmoke;
-    color: black;
+    background-color: white;
+    color:black;
     border: 1px solid black;
 }
-
+.hry {
+    border: solid 2px brown;
+    
+}
 
 img {
     width: 1000;
@@ -31,4 +34,9 @@ img {
     color: black;
     font-family: fantasy;
 
+
 }
+.žánr  {
+        color: goldenrod;
+}
+
