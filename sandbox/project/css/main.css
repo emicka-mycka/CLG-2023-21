@@ -22,6 +22,7 @@ td {
 }
 .hry {
     border: solid 2px brown;
+    flex-basis: 80%;
     
 }
 
@@ -31,10 +32,10 @@ img {
     display: block;
 }
 
-.herci td {
+.herci {
     color: blue;
     font-family: fantasy;
-
+    flex-basis: 80%;
 
 }
 .žánr  {
@@ -63,6 +64,7 @@ border: 3px solid rgb(255, 255, 255);
 
 .text {
     width:10em;
+    flex-basis: 80%;
 }
 
 
