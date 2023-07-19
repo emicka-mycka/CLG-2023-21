@@ -32,10 +32,10 @@ img {
     display: block;
 }
 
-.herci td {
+.herci {
     color: blue;
     font-family: fantasy;
-
+    flex-basis: 80%;
 
 }
 .žánr  {
