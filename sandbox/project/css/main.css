@@ -25,4 +25,8 @@ img {
     display: block;
 }
 
-.herci {}
+.herci td  {
+    color: darkblue;
+    font-family: fantasy;
+      
+}
