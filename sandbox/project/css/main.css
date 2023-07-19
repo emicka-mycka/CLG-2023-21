@@ -1,10 +1,12 @@
 body {
     background-color: white;
-    color: black
+    color: black;
+    display: flex;
+    justify-content: center;
 }
 
 a:visited {
-    color:black!important;
+    color: black !important;
 }
 
 
@@ -22,4 +24,14 @@ td {
 
 .text {
     width:10em;
+}img {
+    width: auto;
+    height: 100px;
+    display: block;
+}
+
+.herci td  {
+    color: darkblue;
+    font-family: fantasy;
+      
 }
