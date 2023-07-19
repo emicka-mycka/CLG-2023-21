@@ -73,3 +73,12 @@ border: 3px solid rgb(255, 255, 255);
 .jmeno {
        color: goldenrod
 }
+
+.footer{
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+}
