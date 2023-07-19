@@ -20,7 +20,7 @@ td {
 }
 
 img {
-    width: 1000;
+    width: auto;
     height: 100px;
     display: block;
 }
