@@ -88,3 +88,8 @@ position: fixed;
     flex-basis: 90%;
     border: 3px solid rgb(255, 255, 255);
   }
+
+  .mapa {
+    display: block;
+    align-self: center;
+  }
