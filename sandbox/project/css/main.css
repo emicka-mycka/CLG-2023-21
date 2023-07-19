@@ -32,13 +32,13 @@ img {
 }
 
 .herci td {
-    color: black;
+    color: blue;
     font-family: fantasy;
 
 
 }
 .žánr  {
-        color: goldenrod;
+        color: goldenrod
 }
 
 
@@ -63,4 +63,13 @@ border: 3px solid rgb(255, 255, 255);
 
 .text {
     width:10em;
+}
+
+
+.jméno {
+       color: goldenrod
+}
+
+.jmeno {
+       color: goldenrod
 }
