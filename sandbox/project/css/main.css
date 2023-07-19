@@ -2,11 +2,11 @@ body {
     background-color: white;
     color: black;
     display: flex;
-    justify-content:center;
+    justify-content: center;
 }
 
 a:visited {
-    color:black!important;
+    color: black !important;
 }
 
 
@@ -15,16 +15,14 @@ a:visited {
 }
 
 td {
-    background-color: brown;
+    background-color: whitesmoke;
     color: black;
 }
 
-img{
-    width: auto;
-    height: 500px;
+img {
+    width: 1000;
+    height: 100px;
     display: block;
 }
 
-.herci{
-    
-}
+.herci {}
