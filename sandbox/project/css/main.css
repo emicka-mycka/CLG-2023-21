@@ -17,7 +17,9 @@ a:visited {
 td {
     background-color: whitesmoke;
     color: black;
+    border: 1px solid black;
 }
+
 
 img {
     width: 1000;
@@ -25,8 +27,8 @@ img {
     display: block;
 }
 
-.herci td  {
-    color: darkblue;
+.herci td {
+    color: black;
     font-family: fantasy;
-      
+
 }
