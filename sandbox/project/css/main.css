@@ -15,12 +15,17 @@ a:visited {
 }
 
 td {
-    background-color: whitesmoke;
+    background-color: white;
     color: black;
 }
+.hry {
+    border: solid 2px brown;
+}
 
-img {
-    width: 1000;
+.text {
+    width:10em;
+}img {
+    width: auto;
     height: 100px;
     display: block;
 }
