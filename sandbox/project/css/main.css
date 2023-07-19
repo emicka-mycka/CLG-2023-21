@@ -58,5 +58,5 @@ td {
 
 .vlevo {
 flex-basis: 90%;
-border: 3px solid black;
+border: 3px solid rgb(255, 255, 255);
 }
