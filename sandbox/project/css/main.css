@@ -1,6 +1,6 @@
 body {
     background-color: white;
-    color: red;
+    color: black
 }
 
 a:visited {
@@ -13,8 +13,13 @@ a:visited {
 }
 
 td {
-    background-color: white
+    background-color: white;
     color: black;
 }
+.hry {
+    border: solid 2px brown;
+}
 
-
+.text {
+    width:10em;
+}
