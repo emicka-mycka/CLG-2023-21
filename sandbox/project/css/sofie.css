@@ -1,5 +1,11 @@
 body {
+  display: block;
+}
 
-    display: block;
+.hvezda {
+  width: 300px;
+}
 
+.starwars {
+  width: 400px ;
 }
