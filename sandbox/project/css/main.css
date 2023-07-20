@@ -107,4 +107,6 @@ position: fixed;
 
 
 }
-
+img.mapa:hover{
+    border-bottom: 2px solid goldenrod;
+}
