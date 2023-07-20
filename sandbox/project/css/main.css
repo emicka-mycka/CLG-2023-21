@@ -113,3 +113,23 @@ img.mapa:hover{
 img.pod:hover{
     border-bottom: 2px solid brown;
 }
+
+a:link{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+a:active{
+    text-decoration: underline;
+    color: gold;
+}
