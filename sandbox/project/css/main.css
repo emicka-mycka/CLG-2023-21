@@ -94,4 +94,10 @@ position: fixed;
   .mapa {
     display: block;
     align-self: center;
+
   }
+.divadlo {
+    margin-top: 2em;
+    width: 4oem;
+    height: auto;
+}
